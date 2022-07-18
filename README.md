@@ -1,2 +1,2 @@
 # md5
-Created with CodeSandbox
+MD5 hash generator of a string in JavaScript
